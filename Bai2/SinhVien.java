@@ -99,6 +99,5 @@ public class SinhVien
     {
         return String.format("%-10d %-30s %10.2f   %10.2f   %10.2f", maSinhVien, hoTen, diemLT, diemTH, getAvarage());
     }
-
     
 }
