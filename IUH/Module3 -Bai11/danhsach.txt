@@ -1,0 +1,21 @@
+5
+370289164
+Tran Thi My Hau
+Nha Trang
+250000.0
+370231992
+Huynh Phu Lam
+Nha Trang
+250000.0
+371083231
+Nguyen Tien
+Da Lat
+150000.0
+371002813
+Tran Sieu
+Da Lat
+150000.0
+371074218
+Nghiem Van Quang
+Nha Trang
+260000.0
